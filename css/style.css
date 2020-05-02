@@ -1,0 +1,84 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+img,iframe,embed{
+	max-width: 100%;
+}
+.bg_primary,.top{
+	background-color: rgba(209,54,54,1);
+}
+.yellow-star{
+	color:yellow; 
+}
+.pic-white{
+	color: white;
+}
+.text_primary{
+	color:  black!important;
+}
+
+
+	.slide-text,.blog,.foot-text,.pic-text{
+		color: rgba(209,54,54,1);
+	}
+	.slide-btn{
+		background-color:#999999;
+	}
+	.footer3{
+		background-color: black;
+		padding: 20px 0;
+	}
+
+
+
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+	text-transform: uppercase ;
+	padding-left: 25px;
+	padding-right: 25px;
+
+}
+.vertical-li ul li a{
+	color: white;
+	
+
+}
+
+.Recent,.popular{
+	
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.testimonials{
+	background: url('../images/mh10.jpg')no-repeat center fixed;
+	background-size: cover;
+	height: 900px;
+
+}
+.testimonial2{
+	background: url('../images/mh6.jpg')no-repeat center fixed;
+	background-size: cover;
+	height: 900px;
+
+}
+
+
+
+
+.footer{
+	background-color: #17202A  ;
+
+	padding: 100px 0;
+}
+.footer2{
+	background-color: black;
+	text-align: center;
+	padding: 40px 0;
+}
